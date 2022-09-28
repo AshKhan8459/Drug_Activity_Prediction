@@ -1,5 +1,6 @@
 
 # Drug_Activity_Prediction
+![download](https://user-images.githubusercontent.com/108837678/192794155-55812aaf-99a5-439b-923a-f86882a910d4.jpg)
 
 Drugs are typically small organic molecules that achieve their desired activity by 
 binding to a target site on a receptor. The first step in the discovery of a new drug 
@@ -15,6 +16,8 @@ determine given a particular compound whether it is active (1) or not (0). As su
 the goal would be developing the best binary classification model.
 
 
+
+
 # Tools_Used
 ![RRRRR](https://user-images.githubusercontent.com/108837678/192785784-a248e567-8bdf-4b52-b4cd-b9c136a60a7f.PNG)
 
@@ -25,6 +28,7 @@ the goal would be developing the best binary classification model.
 * [Low Level Design Documentation](https://drive.google.com/file/d/17D5_D0gLMn8DbqMARBdJI6I3x84hDXwx/view?usp=sharing)
 * [Final Report](https://drive.google.com/file/d/183NZJoMjh_Rk-vm-6cqNw2tek5OKWHXL/view?usp=sharing)
 * [Wireframe](https://drive.google.com/file/d/1mG8OUaDkRPBoPwBCcoEUj_cQ6RDlmRtF/view?usp=sharing)
+
 ## Architecture
 ![archh](https://user-images.githubusercontent.com/108837678/192789888-351d3b79-4772-4a5f-b209-14de96020bbe.PNG)
 ## Deployment
